@@ -9,51 +9,51 @@
  */
 
 // Core variables and mixins
-@import "variables.scss";
-@import "mixins.scss";
+@import "variables";
+@import "mixins";
 
 // Reset
-@import "normalize.scss";
-@import "print.scss";
+@import "normalize";
+@import "print";
 
 // Core CSS
-@import "scaffolding.scss";
-@import "type.scss";
-@import "code.scss";
-@import "grid.scss";
-@import "tables.scss";
-@import "forms.scss";
-@import "buttons.scss";
+@import "scaffolding";
+@import "type";
+@import "code";
+@import "grid";
+@import "tables";
+@import "forms";
+@import "buttons";
 
 // Components
-@import "component-animations.scss";
-@import "glyphicons.scss";
-@import "dropdowns.scss";
-@import "button-groups.scss";
-@import "input-groups.scss";
-@import "navs.scss";
-@import "navbar.scss";
-@import "breadcrumbs.scss";
-@import "pagination.scss";
-@import "pager.scss";
-@import "labels.scss";
-@import "badges.scss";
-@import "jumbotron.scss";
-@import "thumbnails.scss";
-@import "alerts.scss";
-@import "progress-bars.scss";
-@import "media.scss";
-@import "list-group.scss";
-@import "panels.scss";
-@import "wells.scss";
-@import "close.scss";
+@import "component-animations";
+@import "glyphicons";
+@import "dropdowns";
+@import "button-groups";
+@import "input-groups";
+@import "navs";
+@import "navbar";
+@import "breadcrumbs";
+@import "pagination";
+@import "pager";
+@import "labels";
+@import "badges";
+@import "jumbotron";
+@import "thumbnails";
+@import "alerts";
+@import "progress-bars";
+@import "media";
+@import "list-group";
+@import "panels";
+@import "wells";
+@import "close";
 
 // Components w/ JavaScript
-@import "modals.scss";
-@import "tooltip.scss";
-@import "popovers.scss";
-@import "carousel.scss";
+@import "modals";
+@import "tooltip";
+@import "popovers";
+@import "carousel";
 
 // Utility classes
-@import "utilities.scss";
-@import "responsive-utilities.scss";
+@import "utilities";
+@import "responsive-utilities";
